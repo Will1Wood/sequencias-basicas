@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "FumanteReducaoVida",
+            "request": "launch",
+            "mainClass": "FumanteReducaoVida",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "SalarioDoMes",
+            "request": "launch",
+            "mainClass": "SalarioDoMes",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "QuinzeAumento",
+            "request": "launch",
+            "mainClass": "QuinzeAumento",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "CincoDesconto",
+            "request": "launch",
+            "mainClass": "CincoDesconto",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AntecessorSucessorNum",
+            "request": "launch",
+            "mainClass": "AntecessorSucessorNum",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "BoasVindas",
+            "request": "launch",
+            "mainClass": "BoasVindas",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDistancia",
+            "request": "launch",
+            "mainClass": "ConversorDistancia",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "ConversorDolarpReais",
+            "request": "launch",
+            "mainClass": "ConversorDolarpReais",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "DeltaEquacao2Grau",
+            "request": "launch",
+            "mainClass": "DeltaEquacao2Grau",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "NumDobroTercaparte",
+            "request": "launch",
+            "mainClass": "NumDobroTercaparte",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "QuantidadeTinta",
+            "request": "launch",
+            "mainClass": "QuantidadeTinta",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "SalarioMensal",
+            "request": "launch",
+            "mainClass": "SalarioMensal",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "SomaInteiros",
+            "request": "launch",
+            "mainClass": "SomaInteiros",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        },
+        {
+            "type": "java",
+            "name": "médianotas",
+            "request": "launch",
+            "mainClass": "médianotas",
+            "projectName": "sequenciasbasicas_a6729ad6"
+        }
+    ]
+}
